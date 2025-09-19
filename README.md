@@ -1,19 +1,26 @@
 <h1 align="center">👋 Hello, I'm Bobby Doshi</h1>
-<h3 align="center">MS Computer Science Graduate at Northeastern University, Boston, MA</h3>
+<h3 align="center">Lead Software Engineer | AI & Scalable Systems</h3>
 
 <div>
-This is the place where I share my projects, insights, and the lessons I've learned along the way. 
-It's been an incredible  ride since 2016, and each project here highlights a step in my ongoing adventure in tech.
+Welcome to my corner of GitHub!  
+I’m passionate about building intelligent, compliant, and scalable systems — blending large-scale software engineering with GenAI and insights from longitudinal data.  
+Every project here reflects a step in my journey since 2016, from early web apps to today’s AI-native infrastructure.
 </div>
 <br>
 
-**Welcome to my corner of GitHub! Here's a little about what I'm up to:**
+### 🔭 What I’m working on now
+- Architecting **scalable microservices** in Python/TypeScript with distributed, containerized deployments.
+- Designing and optimizing **retrieval-augmented generation (RAG) pipelines** for context-aware recommendations.  
+- Developing **longitudinal time-series–based recommendation systems**, leveraging historical data to adaptively personalize outcomes.
 
-- 🔭 I’m currently working on Parallel Data Processing.
-- 🌱 I’m on a learning path exploring `Cloud Technologies` and `Data Science`, diving deep into the
-  automation of cloud infrastructure and the exciting possibilities of AI in development.
-- 💬 Feel free to ask me about `Web & App Development`, `AWS`, `React`, `Technical Architecture` 
-  and `Tech for Social Good`. I love discussing technology and sharing knowledge.
+### 🌱 What I’m exploring
+- Advanced **MLOps practices**: monitoring, lifecycle management, and model retraining at scale.  
+- **Causal reasoning** and **symbolic planning** to improve robustness in AI-driven decision systems.  
+- Efficient utilization of **cloud GPU/compute resources** for real-time adaptation.
+- **Rust** and **Go** for high-performance, low-latency microservices in distributed systems.  
+
+### 💬 Ask me about
+`AI/ML systems design`, `RAG architectures`, `LangGraph/LangChain`,  `Scalable microservices`, `FastAPI/Django`, `Kubernetes`,  `Cloud (Azure & AWS)`, and **compliance-focused engineering**.  
 
 ### Certifications
 
